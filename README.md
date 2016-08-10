@@ -1,7 +1,11 @@
 # motion-tail
 Python Opencv Motion Detection with Windows 8.1 Laptop Webcam
+Saves an image when motion is detected. (u can modify to include timestamps or just save actual video clips)
+I have 1.3MP cam so forgive the screenshot quality
 
-There is a lot of these out there but none of the worked for me.
+brian_mwanzia@ymail.com
+
+There is a lot of these out there but none of them worked for me.
 Watched a tutorial made for C++ and came up with python version.
 Description inside
 
